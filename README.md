@@ -9,12 +9,13 @@
 
 <p align="center">
   <a href="mailto:byzanr398@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-byzanr398%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/beyza-nur-eker-65669a258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Beyza%20Nur%20Eker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
@@ -51,7 +52,7 @@
 ---
 
 ## 🧠 İlgi Alanlarım
-- 🔐 Siber Güvenlik & CTF
+- 🔐 Siber Güvenlik 
 - 🕷️ Web Scraping & Otomasyon
 - ⚙️ Backend geliştirme
 - 🐧 Linux sistemler
